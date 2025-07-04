@@ -1,0 +1,40 @@
+Data ETL: Local Service Ads Leads to BigQuery
+Client Background
+Client:A leading Marketing firm in the USA
+Industry Type:Marketing
+Services:Marketing consulting
+Organization Size:100+
+Project Objective
+Upload daily data from Google Local Service Ads dashboard to BigQuery database.
+Project Description
+Our Solution
+Project Deliverables
+A working deployed automated tool that runs everyday in the morning hours and uploads a report to database. Tool is monitored everyday.
+Tools used
+Heroku
+LSA API
+BigQuery API
+Sheets API
+Language/techniques used
+Python
+Skills used
+Data extraction, cleaning and summarising
+Databases used
+BigQuery –  lsa_lead_daily_data
+Web Cloud Servers used
+Heroku
+What are the technical Challenges Faced during Project Execution
+Making sure that the data uploaded is for the right company.
+How the Technical Challenges were Solved
+Monitoring daily logs and uploads for some time and making sure data was correct
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Driving Insights from the Largest Community for Investors and Traders
+How Small Business can survive the Coronavirus Crisis
+Effective Management of Social Media Data Extraction: Strategies for Authentication, Security,...
+Design and develop a product recommendation engine based on the features...
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data
+Car Detection in Satellite Images
+Data Studio Dashboard with a data pipeline tool synced with Podio...
+How Metaverse will change your life?

@@ -1,0 +1,33 @@
+Real-time dashboard to monitor infrastructure activity and Machines
+Client Background
+Client:A leading tech firm in Europe
+Industry Type:IT
+Services:Software Services
+Organization Size:30+
+Project Objective
+For the current project, we hope to develop a real-time dashboard (* it updates every several minutes). Currently, we have multiple Ubuntu machines that are sending messages every minute to Apache Pulsar.
+Project Description
+Developing a realtime updating dashboard to display the metadata of various machines on a server from pandio queue.
+The dahboard must display the count of “inactive” , “active” and “down” servers with a table displaying the details of all the machines in different color scheme for each type of server/machine.
+Our Solution
+Project Deliverables
+Tools used
+Skills used
+Databases used
+Web Cloud Servers used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Project website url
+Development hosted URL
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Car Parking Management System
+Data Management, ETL, and Data Automation
+Auvik, Connectwise integration in Grafana
+Turning the Professional Networking Data into Actionable Insights
+The Metaverse and its Implications for our Digital Future.
+Rising IT cities and its impact on the economy, environment, infrastructure,...
+Why does your business need a chatbot?
+IoT & AI/ML Solution for Gas Stations

@@ -1,0 +1,22 @@
+AI Bot Audio to audio
+Table of Contents
+Application Architecture
+Below is the overview of the architecture for an AI audio-to-audio chatbot application leveraging OpenAI Whisper and ElevenLabs’ text-to-speech (TTS) API:
+Installation
+Follow these steps to install and set up the project:
+Running the Project
+Follow these steps to run the project:
+File Descriptions
+Here’s a brief description of the files in the project:
+Source codes: https://github.com/AjayBidyarthy/AI-Bot-Audio-to-audio
+XML-RPC Test Post
+1Vin Aviator: Yeni başlayanlar üçün təlimat
+Teen Patti Meets Mines: Strategy or Just Hype?
+Continued Demand for Sustainability
+How robots can help in e-learning platforms?
+Deploy node.js apps to google app engine, google cloud platform
+How we forecast future technologies?
+How advanced analytics are redefining banking?
+Do Ethnic differences possibly influence the risk of Multiple Sclerosis development...
+IMPACT OF COVID-19 ON THE GLOBAL ECONOMY
+Department-Wise KPI Tracking Dashboard with Technician Performance Analysis for AtoZ Dependable...

@@ -1,0 +1,33 @@
+An agent-based model of a Virtual Power Plant (VPP)
+Client Background
+Client:A Leading Energy Firm in the USA
+Industry Type:Energy
+Services:Power, Energy, Distribution
+Organization Size:5000+
+Project Objective
+To create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observer
+Project Description
+Our Solution
+Project Deliverables
+Tools used
+-Netlogo
+– python
+Language/techniques used
+Models used
+Skills used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Project Video
+https://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard...
+What Jobs Will Robots Take From Humans in The Future?
+Sentiment Analysis of a Leading Restaurants Chain in the USA
+Big Data Analytic in Construction & Real Estate
+How does Metaverse work in the Financial Sector?
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen...
+How to Overcome Your Fear of Making Mistakes
+Grafana Dashboard to visualize and analyze sensors’ data

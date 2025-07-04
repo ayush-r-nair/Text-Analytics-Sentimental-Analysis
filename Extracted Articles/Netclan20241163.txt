@@ -1,0 +1,34 @@
+Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+Client Background
+Client:A leading consulting firm in the USA
+Industry Type:Consulting
+Services:Management consultant
+Organization Size:100+
+Project Objective
+The main objective of this project is to build the automation tool to buy product on amazon.
+Project Description
+This project is basically completed using selenium and Python. All we have done is write a python script for automation using Selenium.
+Make some clicks use logics to check item is in stock or not. If the item is in stock then it buys the product otherwise repeat the process again.
+Our Solution
+A simple python code which uses selenium web driver to do all work.
+Project Deliverables
+Python Code
+Tools used
+Selenium Webdriver
+Language/techniques used
+Python
+Skills used
+Web Scraping
+Selenium
+Project Snapshots
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Travel and Tourism Outlook
+The Metaverse and its Implications for our Digital Future.
+Lessons from the past: Some key learnings relevant to the coronavirus...
+AI, ML, Deep Learning Python Tool Deliverables
+How humans and machines are evolving to work together?
+Lipsync Automation for Celebrities and Influencers
+Data Studio Dashboard with a data pipeline tool synced with Podio...
+BERT-Based Classification of Individuals and Organizations into Two Categories Using Natural...

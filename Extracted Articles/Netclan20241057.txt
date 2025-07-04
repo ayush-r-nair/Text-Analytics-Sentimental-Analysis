@@ -1,0 +1,59 @@
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+Client Background
+Client:A leading insurance firm in the globe
+Industry Type:Insurance
+Services:SaaS, Products, Insurance
+Organization Size:10000+
+Project Objective
+Project Description
+BangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.
+Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc.
+They wanted the recommendation of other services provided by them to each of their customers who are using their platform.
+Our Solution
+This Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.
+We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.
+Project Deliverables
+–   KPI of the Customers
+–   Recommendation model
+–   Graph databased model
+–   Data Generation code based on python (using copula-based on PyTorch)
+Tools used
+Language/techniques used
+Models used
+-K means model for clustering
+-Recommendation Engine model
+-Collaborative based filtering model
+Skills used
+– Machine learning
+– NoSQL Database
+– Graph database
+– Data Generation using python
+– Linux
+– Data Visualization
+Databases used
+– BangDB
+– Graph Database
+– Microsoft MYSQL server
+Web Cloud Servers used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Business Impact
+Project Snapshots
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Continued Demand for Sustainability
+Communication with Twilio-Flex
+How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud...
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard
+Estimating the impact of COVID-19 on the world of work
+Is telemedicine effective in treating patients?
+Deploy MERN to google app engine, google cloud platform
+How AI will change the World?

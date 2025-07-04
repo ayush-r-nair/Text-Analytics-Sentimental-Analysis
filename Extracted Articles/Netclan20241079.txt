@@ -1,0 +1,41 @@
+Advanced AI for Handgun Detection
+Client Background
+Client:A leading tech firm in the Middle East
+Industry Type:Security
+Services:Security services
+Organization Size:100+
+The Problem
+Detecting Handguns in images and videos.
+Our Solution
+We use Yolov7 instance segmentation model to detect and provide coordinates for handguns.
+Solution Architecture
+Deliverables
+Trained model of yolov7 instance segmentation
+Tools used
+Language/techniques used
+Python
+Models used
+Yolov7_mask
+Skills used
+What are the technical Challenges Faced during Project Execution
+Retrieving handgun images in bulk from opensource.
+How the Technical Challenges were Solved
+Found Openimages dataset with good amount of required images
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Google Local Service Ads (LSA) Leads Dashboard
+Automate the Data Management Process
+Rise of Cybercrime and its Effect in upcoming Future
+How Machines, AI, Automations, and Robo-human are Effective in Finance and...
+How Metaverse and VR can reform work culture?
+How humans and machines are evolving to work together?
+Design and develop Jenkins shared library
+Integrating and Deriving Insights from the Cost of Equity

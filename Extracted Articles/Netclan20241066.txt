@@ -1,0 +1,44 @@
+AI solution for a Technology, Information and Internet firm
+Client Background
+Client:A leading Technology, Information and Internet firm in India
+Industry Type:IT
+Services:Emerging Technologies, 2030, and 2050
+Organization Size:10+
+The Problem
+The objective was to analyze, research, and propose data science solutions in the product based on the product design, use cases, and services.
+Our Solution
+b. List needed data
+c. List process
+d. List models
+e. List solution
+Deliverables
+Statement of Work (SoW) with a solution documentation
+Tools used
+Language/techniques
+Python- Flask
+Models used
+Skills used
+Databases used
+Amazon S3
+Web Cloud Servers used
+AWS EC2
+Business Impact
+Project Snapshots
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+ETL and MLOps Infrastructure for Blockchain Analytics
+Data Harmonization, ETL, Data Cleansing, & Classifications
+Immigration Datawarehouse & AI-based recommendations
+Time Series Analysis and Trend Forecasting Solution for Predicting News Trends
+Payroll Analytics
+Design and develop PowerShell script
+Data Studio Dashboard with a data pipeline tool synced with Podio...
+Enhancing Data Collection for Research Institutions: Addressing Survey Fatigue and Incorporating...

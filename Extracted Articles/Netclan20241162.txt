@@ -1,0 +1,20 @@
+Budget, Sales KPI Dashboard using Power BI
+Project Description
+Data Visualization Deliverables
+PresentationMapDashboardAPI Integration
+Data Visualization Tools
+KibanaGoogle Data StudioMicrosoft ExcelMicrosoft Power BI
+Data Visualization Languages
+JavaScriptSQLPythonDAX
+Demo
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+How to protect future data and its privacy?
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure,...
+An agent-based model of a Virtual Power Plant (VPP)
+Big Data and Analytics to Help form Political Leaders Win Election
+COVID-19 Vs Indian Economy
+Design and develop retool app for wholecell.io and Asana data using...
+Bank Risk Management in India
+Is telemedicine effective in treating patients?

@@ -1,0 +1,28 @@
+Power BI Data-Driven Map Dashboard
+Client Background
+Client:A leading marketing firm in the USA
+Industry Type:Market Research
+Services:Marketing, Consultancy
+Organization Size:60+
+Project Objective
+Project Description
+Our Solution
+Project Deliverables
+Tools used
+Skills used
+Databases used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Project Video
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Civil Engineering Software, categorized by their primary applications
+Off-Page SEO
+Data Management, ETL, and Data Automation
+Data Management – EGEAS
+NER Task using BERT with data in XML-format
+Civil Engineering Software, categorized by their primary applications
+Student Database Management System
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data

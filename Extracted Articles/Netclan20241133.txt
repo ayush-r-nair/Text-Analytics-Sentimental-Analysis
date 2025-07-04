@@ -1,0 +1,53 @@
+QuickBooks dashboard to find patterns in finance, sales, and forecasts
+Client Background
+Client:A leading marketing firm in the USA
+Industry Type:Marketing
+Services:e-commerce, retail business, marketing
+Organization Size:100+
+Project Objective
+Build a fully Integrated BI Platform in PowerBI using native connectors and APIs(QuickBooks and Airtable) to pull real time data from many sources.
+Project Description
+For building a fully integrated BI Platform , the data has to come from the following sources to feed it to PowerBI –
+·QuickBooks :An accounting software that accepts real-time business payments ,  manage and pay bills, manage organisation’s deposits/expenses , customers ,and payroll functions. The following data/tables has to be fetched from Quickbooks –
+o   Customer
+o   Invoices
+o   Product & Services
+o   Payments
+o   Expenses
+o   Deposits
+o   Accounts
+o   Vendors
+o   Departments
+o   Classes
+·Airtable :An online database hybrid platform for creating and sharing relational databases with friendly user interfaces. The following databases with multiple data table has to be fetched from Airtable –
+o   Marketing Data Analytics Base (Google Ads , Facebook Ads)
+o   Payroll Tracking (Payroll , Hours Log)
+This Quickbook and Airtable real time data has to go to the powerBI service (https://app.powerbi.com). Then create useful visualisation and dashboards based on plan and feedback from the executive team. All visuals in dashboards should automatically update without any intervention to make it fully integrated.
+Our Solution
+Collecting data tables from data sources :
+After getting these raw data tables , pipeline converts it into DataFrame , then writes/updates it into Airtable.
+The Pipeline is deployed in a server that runs every night , it fetches the data from QuickBooks API and writes/updates to Airtable.
+Scheduled Refresh :To refresh visualization/dashboard (If incoming data from Airtable API has updated) , set refresh time in powerBI service.
+Project Deliverables
+Below are the services that we provided to client after completion of this project –
+Tools used
+PowerBI
+Language/techniques used
+Skills used
+What are the technical Challenges Faced during Project Execution?
+How the Technical Challenges were Solved
+This is how we get all the data of any size from Airtable bases.
+Project Snapshots
+Project Video
+https://www.youtube.com/watch?v=iemcyRtWPNU&ab_channel=Blackcoffer
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Data integration and big data performance using Elasticsearch
+How machine learning used in finance and banking?
+Impacts of COVID 19 on Food products
+An outlook of healthcare by the year 2040, and how it...
+Building an Analytics Dashboard with a PDF Parsing Pipeline for Data...
+Will technology eliminate the need for animal testing in drug development?
+Supplier Insights and Decision Supports for the eCommerce Outlets
+Recommendation System Architecture

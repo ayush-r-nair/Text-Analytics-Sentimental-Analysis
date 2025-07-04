@@ -1,0 +1,38 @@
+Medical Classification
+Client Background
+Client:A Leading Tech Firm in the USA
+Industry Type:IT Consulting
+Services:Software, Consulting
+Organization Size:100+
+Project Objective
+Project Description
+We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.
+Our Solution
+We have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper.
+After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy.
+Project Deliverables
+ML/DL model which is trained on medical research classification data to classify other medical research papers.
+Tools used
+Google Colab notebooks, Tensorflow, PyTorch, Transformers, MS Excel
+Language/techniques used
+Python, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).
+Models used
+Tensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.
+Skills used
+Machine Learning, Deep learning, NLP, Python programming.
+Databases used
+used ms excel data
+What are the technical Challenges Faced during Project Execution
+There are various technical challenges faced during project execution:
+How the Technical Challenges were Solved
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Google Data Studio Pipeline with GCP/MySQL
+Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application
+Global financial crisis 2008 causes/effects and its solution
+Will AI Replace Us or Work With Us?
+List of Business Intelligence (BI) Tools, categorized based on their functionality...
+Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard...
+Using Graph Technology to Create Single Customer View.
+Data Driven Dashboards, Foundation and Application in Industry

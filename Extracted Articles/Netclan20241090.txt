@@ -1,0 +1,30 @@
+Trading Bot for FOREX
+Client Background
+Client:A Leading Trading Firm in the USA
+Industry Type:Finance
+Services:Trading, Consulting
+Organization Size:100+
+The Problem
+Our Solution
+Solution Architecture
+Deliverables
+Tools used
+PyTrader
+numpy
+pandas
+Language/techniques used
+Python(Automation)
+Mql4(To save tick data)
+Business Impact
+Client requirements were  to automate his forex trading strategy  on Meta Trader4 terminal, so that he doesn’t have to bother trading anymore, the Python script we designed to not only do it, plus it offers a safe exit point for Ongoing Trades, that saved the client’s money and time.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Coronavirus: Effect on the Hospitality Industry
+Big Data and Analytics to Help form Political Leaders Win Election
+Enhancing Data Collection for Research Institutions: Addressing Survey Fatigue and Incorporating...
+List of data analysis tools, categorized based on their primary functions
+Civil engineering AI Tools and Software
+Population and Community Survey of America
+SEO Tool – AI and Data Driven
+Will technology eliminate the need for animal testing in drug development?

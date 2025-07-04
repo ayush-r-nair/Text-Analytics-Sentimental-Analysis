@@ -1,0 +1,39 @@
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+Client Background
+Client:A leading financial firm in Dubai
+Industry Type:Financial Services
+Services:Banking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTech
+Organization Size:200+
+The Problem
+Build dashboards unifying all the platforms in use: Google Ads, FB ads, Appsflyer, Mixpanel, etc,in order to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel
+Our Solution
+Deliverables
+Tools used
+Language/techniques used
+Skills used
+Databases used
+Web Cloud Servers used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Business Impact
+Project Snapshots
+Project website URL
+https://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9f
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Rise of Cyber Crime and its Effects
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+Cloud-Based Data Modeling and Analysis Platform with Drag-and-Drop Interface and OpenAI...
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard
+Mitigating Bank risk management
+The future of Investing
+Trading Bot for FOREX
+Android Mobile Apps Portfolio

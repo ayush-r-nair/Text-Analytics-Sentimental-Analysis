@@ -1,0 +1,36 @@
+Marketing, sales, and financial data business dashboard (Wink Report)
+Client Background
+Client:A leading retail firm in Australia
+Industry Type:Retail
+Services:e-commerce, retail business, marketing
+Organization Size:100+
+Project Objective
+Bringing in data from many sources(Google Analytics , ServiceM8 and Xero etc.) and making Business Dashboard KPIs in Wink Report.
+Project Description
+For building Business Dashboards in Wink Report , collect data from the following sources –
+Explore/analyze the underlying data tables from each Data Source. Make useful reports using different tables from different data sources based on client’s requirement. Set up formulas in each report to calculate desired fields. Add a custom visualization to each report for making dashlets. Add dashlets to newly created dashboards.
+Our Solution
+For collecting the data from the sources (ServiceM8 , Xero , Facebook , Google Ad) native connectors have been used , available in the Wink Report. It fetches the following data/tables from around the given data sources –
+Data Pipeline: For collecting data from Communiqa website (https://www.communiqa.com.au/) , web scraping has been used as there is no connector available for Communiqa to Wink Report. By scraping Communiqa , we get the following data –
+Then , we have merged different tables from different sources to get desired reports. Store all reports belonging to the same dashboard in a separate folder. Do this for all the dashboard , then setup formula for calculating desired fields. Add appropriate visualization to each report for each folder. Then , finally add all dashlets belonging to the same folder to a newly created dashboard.
+Project Deliverables
+Below are the services that we provided to client after completion of this project –
+Tools used
+Wink Report
+Language/techniques used
+Skills used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Project Video
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Data Driven Dashboards, Foundation and Application in Industry
+Google LSA API Data Automation and Dashboarding
+Time Series Analysis and Trend Forecasting Solution for Predicting News Trends
+iOS Mobile Applications Portfolio
+Rise of Electric Vehicles and its Impact on Livelihood by 2040
+Statistical Simulation
+Rise of telemedicine and its Impact on Livelihood by 2040
+Immigration Datawarehouse & AI-based recommendations

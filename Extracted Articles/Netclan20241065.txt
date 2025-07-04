@@ -1,0 +1,43 @@
+Analytical solution for a tech firm
+Client Background
+Client:A leading tech firm in the USA
+Industry Type:IT
+Services:Consulting
+Organization Size:100+
+The Problem
+The client’s organization had a project that matches URLs up using TF-IDF algorithm.
+The script threw some errors and resolving these errors was the immediate ask.
+The client also required us to adjust the script for better accuracy and faster computation.
+Our Solution
+Deliverables
+Tools used
+Language/techniques
+Python
+Models used
+Skills used
+Databases used
+Google spreadsheets
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Business Impact
+Project Snapshots
+Project website url
+https://colab.research.google.com/github/AjayBidyarthy/Daniel-Emery/blob/main/vanilla.ipynb#scrollTo=vPp14xj020RL
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Digital Strategic Foresight Platform – Smart AI-Driven Dashboard
+Data security Protect a major enterprise asset
+Python model for the analysis of sector-specific stock ETFs for investment...
+How are genetic sequencing maps affected by deep learning and AI?
+On-Page SEO
+The rise of the OTT platform and its impact on the...
+The Emergence of Data Analytics
+Streamlining Time Calculation in Warehouse Management: Leveraging ShipHero API and Google...

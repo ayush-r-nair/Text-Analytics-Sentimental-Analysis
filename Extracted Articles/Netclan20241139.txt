@@ -1,0 +1,33 @@
+A Leading Musical Instrumental, Website SEO & Optimization
+Client Background
+Client:A leading marketing firm in the USA
+Industry Type:Marketing
+Services:Marketing consulting
+Organization Size:100+
+Project Objective
+Connect website to Google Tag Manager.
+Remove error.
+Project Description
+Remove all previously added code and add new code for connecting to Google Tag Manager.
+Remove 5xx error from the website.
+Our Solution
+Website connected to Google Tag Manager successfully.
+Removed 5xx error.
+Tools used
+Language/techniques used
+Skills used
+WordPress
+Google Tag Manager
+Project website URL
+URL:https://www.hamiltonpianoco.com/
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Big Data & Analytics to Help Voters Know Their Political Leaders
+The workflow of a Machine Learning / Artificial Intelligence project
+Coronavirus impact on energy markets
+Impact of newly discovered coronavirus on the Global Economy
+Marketing Drives Results With A Focus On Problems
+Blockchain for Payments
+Digital Strategic Foresight Platform – Smart AI-Driven Dashboard
+Estimating the impact of COVID-19 on the world of work

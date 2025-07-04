@@ -1,0 +1,44 @@
+AI-Based Algorithmic Trading Bot for Forex
+Client Background
+Client:A leading trading firm in the USA
+Industry Type:Finance
+Services:Trading, Banking, Investment
+Organization Size:100+
+The Problem
+Our Solution
+Deliverables
+Tools used
+Pandas, numpy, scikit-learn, tensorflow, flask etc.
+Language/techniques used
+Data Analysis, Data Visualization, Machine learning, Deep learning, flask web app etc.
+Models used
+Logistic Regression, LSTM model
+Skills used
+Data Analysis, Data Visualization, Machine learning, Deep learning, flask, python etc.
+Databases used
+MongoDB
+Web Cloud Servers used
+AWS Ec2
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Business Impact
+It will help traders to predict the stock market earlier and get better returns from this project.
+Project Snapshots
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Google LSA API Data Automation and Dashboarding
+PowerBI REST API – Fetching Dataflow and Refresh Schedules with semantic...
+PHP Technology Framework
+How AI will change the World?
+How Telehealth and Telemedicine helping people to fight against COVID-19
+React Native Apps in the Development Portfolio
+AI solution for a Technology, Information and Internet firm
+Google Data Studio Dashboard for Marketing, ads and Traction data

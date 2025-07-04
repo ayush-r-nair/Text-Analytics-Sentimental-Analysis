@@ -1,0 +1,36 @@
+Design and develop solution to anomaly detection classification problems
+Client Background
+Client:A Leading Tech Firm in the USA
+Industry Type:IT Consulting
+Services:Software, Consulting
+Organization Size:100+
+Project Description
+We need to create a notebook with solutions to binary classification-related anomaly detection problems. We need to use machine learning and deep learning models which have greater than 90% accuracy.
+Our Solution
+We created a notebook for anomaly detection. We used 10 to 15 machine learning and deep learning models but only  3 different types of auto encoder models that were giving greater than 90% accuracy. We trained all 3 models on one classification data which have anomalies and evaluated trained models on test data.
+Project Deliverables
+A notebook that has solutions for anomaly detection related classification problems and accuracy should be above 90%.
+Tools used
+Google colab notebooks, Tensorflow, Google drive
+Language/techniques used
+Python programming language, Machine learning, Deep learning, Data analysis and Data visualization.
+Models used
+Auto Encoder and Variational Auto Encoder
+Skills used
+Python, Data Analysis, Data visualization, Machine learning, Deep learning.
+Databases used
+MS Excel
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Management challenges for future digitalization of healthcare services
+Data Driven Dashboards, Foundation and Application in Industry
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data
+Complete list of Metallurgical Engineering AI Tools & AI Software
+Do All Social Media Is Owned By Meta?
+Role of Big Data in Healthcare
+E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
+Airbnb & Homeaway Pricing Recommendation

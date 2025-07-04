@@ -1,0 +1,45 @@
+Marketing Analytics to Automate Leads Call Status and Reporting
+Client Background
+Client:A leading Marketing firm in the USA
+Industry Type:Marketing
+Services:Marketing consulting
+Organization Size:100+
+Project Objective
+Prepare a daily report for the companies and upload it to Google Sheets. Data is from callrail and contains all call information about a company.
+Project Description
+Our Solution
+Use CallRail API to get data from database.
+Run script daily
+Filter out excess data
+Prepare report
+Upload to Google Sheets
+Project Deliverables
+A working deployed automated tool that runs once a day in the morning hours and uploads the data to Google Sheets. Tool is monitored daily.
+Tools used
+Heroku
+CallRail API
+BigQuery
+Sheets API
+Language/techniques used
+Python
+Skills used
+Data extraction, cleaning and summarising
+Databases used
+Google Sheets –   Call status record
+Web Cloud Servers used
+Heroku
+What are the technical Challenges Faced during Project Execution
+Ensuring proper amendment of data to sheets without overwrite
+How the Technical Challenges were Solved
+Proper monitoring before final deployment
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+How COVID-19 is impacting payment preferences?
+Meta-Analysis in Healthcare Research
+Python Automation tool, API, Cronjob
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data
+Data integration and big data performance using Elasticsearch
+PHP Technology Framework
+Optimize the data scraper program to easily accommodate large files and...
+Efficient Coach Allocation System for Sports Coaching Organization

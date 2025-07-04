@@ -1,0 +1,37 @@
+Advanced AI for Thermal Person Detection
+Client Background
+Client:A leading tech firm in the Middle East
+Industry Type:Security
+Services:Security services
+Organization Size:100+
+The Problem
+Detect a Person from thermal image and videos. Why this model was created was not told to us by the client.
+Our Solution
+Use Deeplearning Computer Vision to train the model on custom dataset and get the results.
+Solution Architecture
+Deliverables
+Trained model
+Tools used
+Language/techniques used
+Python
+Models used
+Yolov7
+Skills used
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+A Leading Hospitality Firm in the USA, Website SEO & Optimization
+IoT, AI, ML to Detect Fire and Smoke
+Pharmaceutical Data Power BI Report
+COVID-19 Impact on Hospitality Industry
+Communication with Twilio-Flex
+What Jobs Will Robots Take From Humans in The Future?
+Impacts of COVID 19 on Streets Sides Food Stalls
+Impact of Indian Economy due to COVID-19

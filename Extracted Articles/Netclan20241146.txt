@@ -1,0 +1,41 @@
+Datawarehouse, and Recommendations Engine for AirBNB
+Client Background
+Client:A leading hotels chain in the USA
+Industry Type:Real Estate, Hospitality
+Services:Hostpitality
+Organization Size:1000+
+Project Objective
+To download the data from the servers using Cyberduck on the daily basis and perform data engineering on it.
+Project Description
+Our Solution
+We created a Python Script which performs the task and create property and forward master files, which we deliver to client on weekly basis.
+Project Deliverables
+Two csv files named property master file and forward master file to be delivered weekly after applying various steps.
+Tools used
+PyCharm, PowerBi, Cyberduck, Microsoft Excel.
+Language/techniques used
+Python Programming Language is used to create scripts performing Data Manipulation in different files.
+Models used
+SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
+We are using Iterative Waterfall SDLC Model as we have to follow our development of software in phases and we also need feedback on every step of the development of our project so as to keep track of the occurring changes with every step.
+Figure 1 SDLC Iterative Waterfall Model
+Skills used
+Skills such as Data Pre-processing, cleaning, and data manipulation are used in this project.
+Databases used
+We used traditional way of storing the data i.e file systems.
+Web Cloud Servers used
+Cyberduck, which is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3 etc, was used in this project with Amazon S3 servers.
+What are the technical Challenges Faced during Project Execution?
+How the Technical Challenges were Solved
+Project Snapshots (Minimum 10 Pictures)
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Design and develop a retool app that will show stock and...
+The Metaverse and its Implications for our Digital Future.
+Traceability of information – Master your data capital
+How are people diverted to Telehealth services and telemedicine?
+Analytics in Healthcare Industry
+Digital Transformation in Oil and Gas
+AWS Lex Voice and Chatbot
+Environmental impact of the COVID-19 pandemic – Lesson for the Future

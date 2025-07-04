@@ -1,0 +1,37 @@
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the Dashboard to Web App
+Client Background
+Client:A leading tech firm in the USA
+Industry Type:IT Services
+Services:Consulting, Software, Marketing Solutions
+Organization Size:100+
+Project Objective
+Create a dashboard with Assets Performance With react App. So users can evaluate with Key metrics from data analytics and forecasting.
+Project Description
+The client requires two pages:
+Our Solution
+Project Deliverables
+Asset Report Page
+Investor Page
+Tools used
+Language/techniques used
+Skills used
+Databases used
+Web Cloud Servers used
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Business Impact
+Project Snapshots
+Project website url
+https://digital.bctriangle.com
+Project Video
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Rise of e-health and its impact on humans by the year...
+Grafana Dashboard – Oscar Awards
+Are Initial Big Data Efforts Focused on Gaining Insights from Existing...
+How can Big Data & Analytics change the healthcare sector in...
+Rise of Electric Vehicles and its Impact on Livelihood by 2040
+Power BI integration with RestAPI, and SAML Integration
+AI Bot Audio to audio
+Web Data Connector

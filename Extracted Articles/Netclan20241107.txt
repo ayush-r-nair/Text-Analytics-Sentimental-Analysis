@@ -1,0 +1,38 @@
+An AI ML-based web application that detects the correctness of text in a given video
+Client Background
+Client:A Design & Media firm in the USA
+Industry Type:Marketing
+Services:Consulting, Software, Marketing Solutions
+Organization Size:100+
+Project Objective
+Create a python web application that detects the text and checks the spelling of written text in the videos and prints the count of wrong spelling in the end
+Project Description
+Developing a dockerized Django web application for detecting the text and checking the spelling of written text in the video and printing the count of wrong spelling in the end and deploying the application on google cloud
+Our Solution
+We have created a python web application with Django framework when user uploads the video the application run keras-ocr model on each frame of the video and keep the count of the wrong words at the end it provides the video with the bounding box around the words. For correct words it creates green bounding box and for wrong words it creates red bounding box and also it provides the summation of count of wrong words.
+Project Deliverables
+Deployed dockerized web application on google cloud which generate video with bounding box around texts
+Tools used
+Language/techniques used
+Models used
+We have used keras-ocr model for detecting the text form the video and creating the bounding box around the words
+Skills used
+Databases used
+Web Cloud Servers used
+Google cloud
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Project website url
+http://34.68.134.64/
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+How to access Amazon Seller Central or Vendor Central data in...
+AI, ML, Deep Learning Python Tool Deliverables
+Making a robust way to sync data from airtables to mongoDB...
+Marbles Stimulation using python
+Google Data Studio Dashboard for Marketing, ads and Traction data
+What patients like and dislike about telemedicine?
+Mercado de San Miguel, gastronomía de calidad.
+PowerBI REST API – Fetching Dataflow and Refresh Schedules with semantic...

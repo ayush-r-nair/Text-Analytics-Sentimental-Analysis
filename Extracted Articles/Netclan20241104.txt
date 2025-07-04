@@ -1,0 +1,57 @@
+Data integration and big data performance using Elasticsearch
+Client Background
+Client:A Leading Tech Firm in the USA
+Industry Type:IT & Consulting
+Services:Software, Business Solutions, Consulting
+Organization Size:200+
+Project Objective
+Migrate existing databases from Postgres to elastic search since Elasticserach performs better in search operations. In addition to this, all of the backend javascript also needed to be changed in order to query the new elasticsearch database.
+Project Description
+The client’s website was a visualization tool. It also had GUI to add filters. To make the visualizations, at least 50,000 records needed to be pulled from the Postgres database whose size would be around 200mbs. This would take a lot of time (nearly 20-30 secs). Adding filters would take additional time. So our task was to move the entire database over to Elasticsearch from postgres since it is way more faster in search operations and also filtering data. Since the database was changed, we also had to write new backend code that would now query the Elasticsearch database.
+Our Solution
+Project Deliverables
+Tools used
+Elasticsearch
+Postman
+Kibana
+Logstash
+Python
+Javascript
+Amazon Web Services
+Postgres
+Docker
+Git Bucket
+Github
+Language/techniques used
+Javascript
+Json
+Domain-Specific Language for elasticsearch
+bash
+Skills used
+Elasticsearch query knowledge
+Postgres query knowledge
+Networking
+Javascript
+Backend web stack
+Databases used
+Postgres
+Elasticsearch
+Web Cloud Servers used
+Amazon Web Services (AWS)
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+To solve the above mentioned problem, we used gzip in the request url’s header. This significantly reduced the execution times.
+Business Impact
+Earlier postgres infrastructure which took around 20-30 secs now too consistently less than 10 secs to perform filter and search operations. This would contribute to a better user experience.
+Project Snapshots
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+How COVID-19 is impacting payment preferences?
+How is Login Logout Time Tracking for Employees in Office done...
+Replacing existing pavement roads, parking lots and sidewalks with pavement made...
+Meta-Analysis in Healthcare Research
+Cloud-Based Data Modeling and Analysis Platform with Drag-and-Drop Interface and OpenAI...
+Oil prices by the year 2040, and how it will impact...
+End-to-end tool to predict Biofuel prices using IESO data
+Data Analytics Solution for the Hospitality Industry

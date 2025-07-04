@@ -1,0 +1,36 @@
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy
+Client Background
+Client:A leading IT & tech firm in the USA
+Industry Type:IT
+Products & Services:IT Consulting, IT Support, SaaS, Marketing Strategy
+Organization Size:10+
+The Problem
+Building AI and ML based YouTube analytics and content creation tool that will help youtuber to understand their subscriber’s watching behaviour, help them in content research, creation and publication.
+Our Solution
+Created a MERN stack web application and integrated AI models to helps youtuber to generated titles, descriptions, tags, hashtags, captions etc. Help them to check thumbnail quality, analysis on the videos using video auditor tool, analysis on comments using sentiments analysis, help to under their subscribers using churn predication AI model.
+Solution Architecture
+Deliverables
+Web Applications
+Supports
+Maintenance
+Feature Enhancement
+Tech Stack
+Project Snapshots
+Project website url
+https://tubetool.ai
+Summarize
+Summarized: https://blackcoffer.com/
+This project was done by the Blackcoffer Team, a Global IT Consulting firm.
+Contact Details
+This solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Efficient Processing and Analysis of Financial Data from PDF Files: Addressing...
+Big Data Integration & Infrastructure Solution
+Are we any closer to preventing a nuclear holocaust?
+Text to Speech, html
+Big Data Integration & Infrastructure Solution
+Entertainment Music Player User Analytics and Recommendations
+How Robo Human will Impact the Future?
+AI and its impact on the Fashion Industry

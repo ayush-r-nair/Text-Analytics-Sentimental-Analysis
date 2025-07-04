@@ -1,0 +1,41 @@
+AWS Lex Voice and Chatbot
+Client Background
+Client:A leading tech firm in USA
+Industry Type:IT
+Services:eCommerce
+Organization Size:40+
+Project Objective
+Create a Voice and chatbot using AWS lex which can book flights, hotels, cars and book some fun activities in a city.
+Project Description
+We need to create a voice and chatbot using AWS lex and lambda function. The bot should book a flight, a hotel, and a car by asking some relevant questions to the user like destination, origin, date, etc. We also need to create a combination of all these which can plan the whole trip, flight, hotel, car and book some fun activities.
+Our Solution
+We have created aws lex intents and lambda functions for all bookings. Intents manage front ends like utterances (user can ask to the bot) and slots (bot replies with relevant questions). Lambda functions manage backend parts like which intent should be triggered if the user says “ book a flight” or “book a hotel” or “book a car”. For search results we have used some external APIs like Amadeus for flight, sabre for hotels and blablacar for car booking.  We have modified search results by using Data Analytics (for getting the cheapest and good star flight and hotel), Machine learning (for getting user’s preferences by analyzing user’s history) and NLP (Differentiate search results by text analysis) techniques so users can get the best search results.
+Project Deliverables
+An aws lex voice and chatbot which can book flight, hotel, car and fun activities. This can be integrated with IOS applications.
+Tools used
+AWS Lex, AWS Lambda, AWS Cognito, AWS EC2, Google colab, VS code, FAST API, Uvicorn.
+Language/techniques used
+python, machine learning, data analytics, NLP.
+Models used
+TfIdf-Vectorizer and cosine similarity
+Skills used
+Data Analytics, Machine learning, NLP, Python, AWS, REST APIs.
+Databases used
+MySQL
+Web Cloud Servers used
+AWS
+What are the technical Challenges Faced during Project Execution
+How the Technical Challenges were Solved
+Project Snapshots
+Project Video
+Transforming Real Estate Investments with an Automated Stack shares Platform
+Empowering Careers: The Hirekingdom
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+How big data and analytics is shaping tomorrow for marketing leaders?
+Advanced Patient Data Analysis Solution for Trend Identification and Improved Healthcare...
+Coronavirus: Impact on the Hospitality Industry
+Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc.
+Predictive Modelling, AI, ML Dashboards in Power BI
+Realtime Kibana Dashboard for a financial tech firm
+Structural Equation Modeling (SEM)
+Cloud-Based Data Modeling and Analysis Platform with Drag-and-Drop Interface and OpenAI...
